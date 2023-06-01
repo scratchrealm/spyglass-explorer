@@ -1,0 +1,41 @@
+.SessionTable table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.SessionTable table thead {
+    background-color: #333;
+    color: #FFF;
+}
+
+.SessionTable table tbody {
+    background-color: #FFF;
+}
+
+.SessionTable table tbody tr:nth-child(even) {
+    background-color: #F7F7F7;
+}
+
+.SessionTable table td {
+    padding: 4px;
+    border-bottom: 1px solid #DDD;
+}
+
+.SessionTable table td:first-child {
+    font-weight: 600;
+    color: #333;
+}
+
+.SessionTable table td:last-child {
+    color: #2c2b2b;
+}
+
+.SessionTable table td a {
+    color: #3498DB;
+    text-decoration: none;
+}
+
+.SessionTable table td a:hover {
+    color: #2980B9;
+    text-decoration: underline;
+}

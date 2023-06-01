@@ -1,0 +1,8 @@
+projectName: spyglass-explorer
+pythonProjectVersion: 0.1.1
+projectAuthor: Jeremy Magland
+projectAuthorEmail: jmagland@flatironinstitute.org
+projectDescription: "Web-based explorer for Spyglass."
+projectUrl: https://github.com/scratchrealm/spyglass-explorer
+projectBugTrackerUrl: https://github.com/scratchrealm/spyglass-explorer/issues
+pythonPackageDir: ./python
